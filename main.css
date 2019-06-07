@@ -1,0 +1,51 @@
+header{
+    font-family: 2.5em;
+}
+.slidebar{
+    background-color: #B5CE7F;
+    float:right;
+    width: 330px;
+    padding: 3px;
+    height: 500px;
+    margin-right: 22px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    color:white;
+    text-align: center;
+    font-family: gentium, arial;
+    font-family: 2.5em;
+  }
+   
+  .footer{
+    background-color: #BADB73;
+    font-family: gentium, arial;
+  
+  }
+  .footer h5{
+    color: white;
+    padding: 10x 40px;
+  }
+  
+  
+  header h1{
+    margin-left:40px;
+  }
+  .menu{
+    margin-left: -25px;
+    font-family: gentium, arial;
+  }
+  .menu li a:hover{
+    background-color: #B5CE7F;
+    transition: all 0.7s ease-in-out;
+  }
+  .menu li{
+    display: inline;
+  }
+  .menu li a{
+    padding: 13px 125px;
+    background-color: #B5CE7F;
+    color:white;
+    margin-right: -3px;
+  
+  
+  }
